@@ -1,0 +1,450 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Kolkata</string>
+
+    <!-- Category name for heritage spots [CHAR LIMIT=20] -->
+    <string name="category_heritage">Heritage</string>
+
+    <!-- Category name for religious spots [CHAR LIMIT=20] -->
+    <string name="category_religious">Religious</string>
+
+    <!-- Category name for nature spots [CHAR LIMIT=20] -->
+    <string name="category_nature">Nature</string>
+
+    <!-- Category name for sports spots [CHAR LIMIT=20] -->
+    <string name="category_sports">Sports</string>
+
+    <!-- Category name for other spots [CHAR LIMIT=20] -->
+    <string name="category_others">Others</string>
+
+    <!-- Description of the tourist spots in Heritage category -->
+    <string name="victoria_memorial">The Victoria Memorial is a large marble building in Kolkata,
+        West Bengal, India, which was built between 1906 and 1921. It is dedicated to the memory of
+        Queen Victoria, then Empress of India, and is now a museum under the auspices of the
+        Ministry of Culture. The memorial lies on the Maidan, near Jawaharlal Nehru Road
+        (also known as Chowringhee Road).</string>
+
+    <string name="fort_william">Fort William is a fort in Hastings, Calcutta (Kolkata). It was built
+        during the early years of the Bengal Presidency of British India. It sits on the eastern
+        banks of the Hooghly River, the major distributary of the River Ganges. One of Kolkata\'s
+        most enduring Raj-era edifices, it extends over an area of 70.9 hectares. The fort was named
+        after King William III. In front of the Fort is the Maidan, the largest park in the city.
+        An internal guard room became the Black Hole of Calcutta.</string>
+
+    <string name="howrah_bridge">Howrah Bridge is a balanced cantilever bridge over the Hooghly
+        River in West Bengal, India. Commissioned in 1943, the bridge was originally named the New
+        Howrah Bridge, because it replaced a pontoon bridge at the same location linking the two
+        cities of Howrah and Kolkata (Calcutta). On 14 June 1965 it was renamed Rabindra Setu after
+        the great Bengali poet Rabindranath Tagore, who was the first Indian and Asian Nobel
+        laureate. It is still popularly known as the Howrah Bridge. The bridge is one of four on the
+        Hooghly River and is a famous symbol of Kolkata and West Bengal. The other bridges are the
+        Vidyasagar Setu (popularly called the Second Hooghly Bridge), the Vivekananda Setu and the
+        newly built Nivedita Setu. It weathers the storms of the Bay of Bengal region, carrying a
+        daily traffic of approximately 100,000 vehicles and possibly more than 150,000 pedestrians,
+         easily making it the busiest cantilever bridge in the world. The third-longest cantilever
+        bridge at the time of its construction, the Howrah Bridge is currently the sixth-longest
+        bridge of its type in the world.</string>
+
+    <string name="indian_museum">The Indian Museum in Kolkata, West Bengal, India, also referred to
+        as the Imperial Museum at Calcutta in colonial-era texts, is the ninth oldest museum in the
+        world, the oldest museum in India, and the largest museum in India. It has rare collections
+        of antiques, armour and ornaments, fossils, skeletons, mummies and Mughal paintings. It was
+        founded by the Asiatic Society of Bengal in Kolkata (Calcutta), India, in 1814. The founder
+        curator was Nathaniel Wallich, a Danish botanist. It has six sections comprising thirty five
+        galleries of cultural and scientific artifacts namely Indian art, archaeology, anthropology,
+        geology, zoology and economic botany. Many rare and unique specimens, both Indian and
+        trans-Indian, relating to humanities and natural sciences, are preserved and displayed in
+        the galleries of these sections. In particular the art and archaeology sections hold
+        collections of international importance. It is an autonomous organization under Ministry of
+        Culture, Government of India. The present Director of the Indian Museum is Shri Arijit Dutta
+        Choudhury who is also the Director General, NCSM and having the additional charge of
+        Director General of National Library. Administrative control of the Cultural sections, viz.
+        Art, Archaeology and Anthropology rests with the Board of Trustees under its Directorate,
+        and that of the three other science sections is with the geological survey of India, the
+        zoological survey of India and the Botanical survey of India. The museum Directorate has
+        eight co-ordinating service units: Education, preservation, publication, presentation,
+        photography, medical, modelling and library. This multipurpose institution with
+        multidisciplinary activities is being included as an Institute of national importance in the
+        seventh schedule of the Constitution of India.</string>
+
+    <string name="marble_palace">Marble Palace is a palatial nineteenth-century mansion in North
+        Kolkata. It is located at 46, Muktaram Babu Street, Kolkata 700007. It is one of the
+        best-preserved and most elegant houses of nineteenth-century Calcutta. The mansion is famous
+        for its marble walls, floors, and sculptures, from which it derives its name.</string>
+
+    <string name="mother_house">The Missionaries of Charity’s Mother House is a holy place of
+        pilgrimage and reverence for those who are searching for a more meaningful existence. It was
+        established by the Blessed Mother Teresa in 1950 with the purpose of selfless service to
+        mankind and to uplift the plagued humanity towards the path of salvation. After Mother
+        Teresa left her mortal body in 1997, she was laid to rest in a tomb inside the house where
+        she lived and served. The site of the tomb is very simple yet it exudes enormous amount of
+        benign and pure vibration that fills the heart with gratitude and peace. Situated amidst
+        noise and crowd, Mothers tomb is a true reflection of her life which contemplated the
+        example of soulful and mindful meditation. he Mother House- Missionaries of Charity is
+        situated near Ripon Street. Its nearest landmark is the Sealdah Loreto Convent.</string>
+
+    <string name="jorasanko_thakurbari">Jorasanko Thakur Bari (Bengali: House of the Thakurs
+        (anglicised to Tagore) in Jorasanko, North Kolkata, West Bengal, India, is the ancestral
+        home of the Tagore family. It is currently located on the Rabindra Bharati University
+        campus at 6/4 Dwarakanath Tagore Lane, Jorasanko, Kolkata 700007. It is the house in which
+        the poet and first non-European Nobel laureate, Rabindranath Tagore was born. It is also
+        the place where he spent most of his childhood and died on 7 August 1941</string>
+
+    <string name="shobhabajar_rajbari">Shobhabazar Rajbari (Shobhabazar Royal Palace) is the palace
+        of the Shobhabazar royal family located in the Indian city of Kolkata. Maharaja Nabakrishna
+        Deb (1737–97), founder of the Shobhabazar Rajbari (at 35), started life as a modest
+        aristocrat but soon amassed considerable wealth in his service to the British, in particular
+        by his role in assisting to topple Siraj ud-Daulah. During his lifetime Raja Nabakrishna Deb
+        built two houses. The building at 35 Raja Nabakrishna Street (known as Shobhabazar Rajbari
+        or "Baag ola Bari - House with the lions"), on the northern side of the road, was the one
+        first constructed by him, subsequently inherited by his adopted son from his elder brother
+        Gopimohan and his descendants including his son Radhakanta Deb. The house at 33 Raja
+        Nabakrishna Street (known as Choto Rajbari) was built by him when a son was born to him
+        later in life, and was left to his biological son Rajkrishna and his descendants.</string>
+
+    <string name="prinsep_ghat">Prinsep Ghat is a ghat built in 1841 during the British Raj, along
+        the Kolkata bank of the Hooghly River in India. The Palladian porch in the memory of the
+        eminent Anglo-Indian scholar and antiquary James Prinsep was designed by W. Fitzgerald and
+        constructed in 1843. Located between the Water Gate and the St George\'s Gate of the Fort
+        William, the monument to Prinsep is rich in Greek and Gothic inlays. It was restored by the
+        state\'s public works department in November 2001 and has since been well-maintained. In its
+        initial years, all royal British entourages used the Prinsep Ghat jetty for embarkation and
+        disembarkation.</string>
+
+    <string name="national_library">The National Library of India is the largest library located in
+        Belvedere Estate, Alipore, Kolkata, India. It is India\'s largest library by volume and
+        public record. National Library is under the Ministry of Culture, Government of
+        India. The library is designated to collect, disseminate and preserve printed material
+        produced in India. It is the largest in India with a collection in excess of 2.2 million
+        books. Before independence, it was the official residence of Governor-General of India. The
+        library operates under the national government’s Department of Culture and is designated to
+        collect, disseminate, and preserve all printed material produced in India. The National
+        Library is a result of the merging of the public library with the Imperial Library—several
+        government libraries. The National Library (1953), then the Imperial Library housed several
+        foreign (British) and Indian titles and was open to the public. It collects book,
+        periodicals, and titles in virtually all the Indian languages while the special collections
+        in the National Library of India house at least fifteen languages. The Hindi department
+        has books that date back all the way to the nineteenth century and the first ever books
+        printed in that language. The collections break down and consist of 86,000 maps and 3,200
+        manuscripts.</string>
+
+    <string name="shaheed_minar">The Shaheed Minar (English: Martyrs\' Monument), formerly known as
+        the Ochterlony Monument, is a monument in Kolkata that was erected in 1828 in memory of
+        Major-general Sir David Ochterlony, commander of the British East India Company, to
+        commemorate both his successful defense of Delhi against the Marathas in 1804 and the
+        victory of the East India Company’s armed forces over the Gurkhas in the Anglo-Nepalese War
+        also known as the Gurkha War. The monument was constructed in his memory. It was designed by
+        J. P. Parker and paid for from public funds. On 9 August 1969 it was rededicated to the
+        memory of the martyrs of the Indian freedom movement and renamed the "Shaheed Minar," which
+        means "martyrs' monument" in both Bengali and Hindi, by the then United Front Government in
+        memory of the martyrs of the Indian independence movement. The present
+        [when?] government has decided to illuminate the tower during evenings and allow visitors to
+        the top. The last people to have been up there were former governor Gopal Krishna
+        Gandhi and his family.</string>
+
+    <string name="raj_bhavan">Raj Bhavan is the official residence of the Governor of West Bengal,
+        located in the capital city Kolkata. Built in 1803, it was known as Government House before
+        the independence of India. After the transfer of power from the East India Company to the
+        British Crown in 1858, it became the official residence of the Viceroy of India, shifting
+        here from the Belvedere Estate. With the shifting of capital to Delhi in 1911 it became the
+        official residence of Lieutenant Governor of Bengal. Since independence in 1947 it serves as
+        the official residence of the Governor of West Bengal and came to be known as the Raj
+        Bhavan, a name it shares with the official residences of other states\' governors.</string>
+
+    <string name="netaji_bhavan">Netaji Bhawan or Netaji Bhavan (Netaji\'s Residence) is a building
+        maintained as a memorial and research center to the life of the Indian nationalist "Netaji"
+        Subhas Chandra Bose in Kolkata. The house, built by Bose\'s father in 1909, is owned
+        and managed by the Netaji Research Bureau and includes a museum, archives and library.
+        The Bureau is run by Sugata Bose and his mother, Krishna Bose(at February 2020 expired). The
+        building is on Lala Lajpat Rai Sarani in Kolkata.</string>
+
+    <!-- Description of the tourist spots in Religious category -->
+    <string name="belur_math">Beluṛ Maṭh is the headquarters of the Ramakrishna Math and Mission,
+        founded by Swami Vivekananda, the chief disciple of Ramakrishna Paramahamsa. It is located
+        on the west bank of Hooghly River, Belur, West Bengal, India and is one of the significant
+        institutions in Kolkata. This temple is the heart of the Ramakrishna Movement. The temple is
+        notable for its architecture that fuses Christian, Islamic, Hindu and Buddhist art motifs as
+        a symbol of unity of all religions. In 2003 Belur Math railway station was also inaugurated
+        which is dedicated to Belur Math Temple.</string>
+    <string name="dakshineswar">Dakshineswar Kali Temple is a Hindu navaratna temple located at
+        Dakshineswar. Situated on the eastern bank of the Hooghly River, the presiding deity of the
+        temple is Bhavatarini, an aspect of Kali, who is form of Adi Shakti. The temple was built in
+        1855 by Rani Rashmoni, a philanthropist and a devotee of Kali. The temple is known for its
+        association with Ramakrishna and Ma Sarada Devi, mystics of 19th Century Bengal. The temple
+        compound, apart from the nine-spired main temple, contains a large courtyard surrounding the
+        temple, with rooms along the boundary walls. There are twelve shrines dedicated to
+        Shiva—Kali\'s companion—along the riverfront, a temple to Radha-Krishna, a bathing ghat on
+        the river, a shrine dedicated to Rani Rashmoni. \'Nahabat\', the chamber in the northwestern
+        corner just beyond the last of the Shiva temples, is where Ramakrishna and Maa Sarada spent
+        a considerable part of their lives.</string>
+    <string name="st_pauls_cathedral">St. Paul\'s Cathedral is a Church of North India (CNI)
+        cathedral of Anglican background in Kolkata, West Bengal, India, noted for its Gothic
+        architecture and dedicated to Paul the Apostle. It is the seat of the Diocese of Calcutta.
+        The cornerstone was laid in 1839; the building was completed in 1847. It is said to be the
+        largest church in Kolkata and the first Anglican cathedral in Asia. It was also the first
+        new-built cathedral in the overseas territory of the British Empire. The edifice stands on
+        Cathedral Road on the "island of attractions" to provide for more space for the growing
+        population of the European community in Calcutta in the 1800s. The architectural design of
+        the cathedral is \"Indo-Gothic\", a Gothic architectural style designed to meet the climate
+        of India. Following the 1897 earthquake and the subsequent massive earthquake of 1934, when
+        Calcutta suffered substantial damage, the cathedral was reconstructed to a revised design.
+        The cathedral complex has a library, situated over the western porch, and a display of
+        plastic art forms and memorabilia. Apart from that of Bishop Daniel Wilson, the founder of
+        the cathedral, the other notable burial in the church is that of John Paxton Norman, an
+        acting Chief Justice who was assassinated on the steps of Kolkata Town Hall in 1871.</string>
+    <string name="birla_mandir">Birla Mandir in Kolkata, India, is a Hindu temple on Asutosh
+        Chowdhury Avenue, Ballygunge, built by the industrialist Birla family. This temple is open
+        in the morning from 5.30 A.M. to 11 A.M. and in the evening from 4 .30 P.M. to 9 P.M. On
+        Janmashtami, the birthday of Krishna, devotees come from far away places to pay their
+        respect to the deities.</string>
+    <string name="kalighat_temple">Kalighat Kali Temple is a Hindu temple in Kalighat, Kolkata,
+        West Bengal, India dedicated to the Hindu goddess Kali. It is one of the 51 Shakti Peethas.
+        Kalighat was a Ghat (landing stage) sacred to Kali on the old course (Adi Ganga) of the
+        Hooghly river (Bhāgirathi) in the city of Kolkata. The name Calcutta is said to have been
+        derived from the word Kalighat. The river over a period of time has moved away from the
+        temple. The temple is now on the banks of a small canal called Adi Ganga which connects to
+        the Hooghly. The Adi Ganga was the original course of the river Hooghly. Hence the name Adi
+        (original) Ganga.</string>
+    <string name="nakhoda_masjid">The Nakhoda Masjid is the principal mosque of Kolkata, India, in
+        the Chitpur area of the Burrabazar business district in Central Kolkata, at the intersection
+        of Zakaria Street and Rabindra Sarani.</string>
+    <string name="jain_temple">Calcutta Jain Temple (also called Parshwanath Temple) is a Jain
+        temple at Badridas Temple Street, Gouribari in Maniktala and a major tourist attraction of
+        Kolkata (Calcutta), India. The temple was built by a Jain named Rai Badridas Bahadoor Mookim
+        in 1867. Pratishtha was done by Sri Kalyansurishwarji Maharaj.</string>
+    <string name="south_park_street_cemetery">South Park Street Cemetery is located on Mother Teresa
+        Sarani, Kolkata, India. The road used to be called Park Street, and prior to that Burial
+        Ground Road.</string>
+    <string name="buddhist_pagoda">The Buddhist Pagoda is more than a 150 year old architecture that
+        was brought from Burma itself. The pagoda has its typical architecture which looks out of
+        place in the city of joy, standing serenly behind the more famous Eden garden stadium. It
+        attracts a few buddhist locals and some wandering tourists in the are.</string>
+    <string name="st_james_church">St. James\' Church in Entally, Kolkata (Calcutta), India, is one
+        of Kolkata\'s most elegant churches. Built in 1862, the twin spires of the St. James\'
+        Church dominates Kolkata\'s skyline. It is popularly known as Jora Girja, literally meaning
+        twin church for its twin spires.</string>
+    <string name="st_johns_church">St. John\'s Church, originally a cathedral, was among the first
+        public buildings erected by the East India Company after Kolkata (Calcutta) became the
+        effective capital of British India. It is located at the North-Western corner of Raj Bhavan,
+        and served as the Anglican Cathedral of Calcutta till 1847, when the see was transferred to
+        St. Paul\'s Cathedral. Construction of the building, modelled on St Martin-in-the-Fields of
+        London, started in 1784, with Rs 30,000 raised through a public lottery, and was completed
+        in 1787. The land the church stands on was gifted by Maharaja Nabo Kishen Bahadur of
+        Sobhabazar. It is the third oldest church in the city, next to the Armenian Church of the
+        Holy Nazareth and the Old Mission Church</string>
+
+    <!-- Description of the tourist spots in Nature category -->
+    <string name="rabindra_sarovar">Rabindra Sarobar (previously known as Dhakuria Lake) is an
+        artificial lake in South Kolkata in the Indian state of West Bengal. The name also refers to
+        the area surrounding the lake. It is flanked by Southern Avenue to the North, Shyamaprasad
+        Mukherjee Road to the West, Dhakuria to the East and the Kolkata Suburban Railway tracks to
+        the south.</string>
+    <string name="botanical_gardens">The Acharya Jagadish Chandra Bose Indian Botanic Garden
+        previously known as Indian Botanic Garden and the Calcutta Botanic Garden, is situated in
+        Shibpur, Howrah near Kolkata. They are commonly known as the Calcutta Botanical Garden and
+        previously as the Royal Botanic Garden, Calcutta. The gardens exhibit a wide variety of
+        rare plants and a total collection of over 12,000 specimens spread over 109 hectares. It is
+        under Botanical Survey of India (BSI) of Ministry of Environment and Forests, Government of
+        India.</string>
+    <string name="alipore_zoo">The Zoological Garden, Alipore (also informally called the Alipore
+        Zoo or Calcutta Zoo) is India\'s oldest formally stated zoological park (as opposed to royal
+        and British menageries) and a big tourist attraction in Kolkata, West Bengal. It has been
+        open as a zoo since 1876, and covers 18.811 ha (46.48 acres). It is probably best known as
+        the home of the now expired Aldabra giant tortoise Adwaita, who was reputed to have been
+        over 250 years old when he died in 2006. It is also home to one of the few captive breeding
+        projects involving the Manipur brow-antlered deer. One of the most popular tourist
+        attractions in Kolkata, it draws huge crowds during the winter season, especially during
+        December and January. The highest attendance till date was on January 1, 2018 with 110,000
+        visitors.</string>
+    <string name="eco_tourism_park">Eco Park (Prakriti Tirtha) is an urban park in New Town,
+        Rajarhat, Kolkata and the biggest park so far in India. The park is situated on a 480 acres
+        (190 ha) plot and is surrounded by a 104 acres (42 ha) waterbody with an island in the
+        middle. The park was conceptualised by Chief Minister of West Bengal, Mamata Banerjee in
+        July 2011. West Bengal Housing Infrastructure Development Corporation (HIDCO) is the
+        overarching body coordinating the construction of the park, along with different other
+        government bodies responsible for implementation of different works inside the park. The
+        park has been divided into three broad parts; 1) ecological zones like wetlands, grasslands,
+        and urban forest, 2) theme gardens and open spaces, 3) and urban recreational spaces. The
+        Eco Park is further divided into different sub-parts according to the different types of
+        fauna planted. The copies of the Seven Wonders of the World have also been made for people
+        to visit in this park. According to the plan, the park will have different areas like wild
+        flower meadows, a bamboo garden, grasslands, tropical tree garden, bonsai garden,
+        tea garden, Cactus Walk, a heliconia garden, a butterfly garden, a play area and an
+        amphitheatre. Further, there is plan to develop an eco-resort in public-private partnership,
+        and will also include an area where handicrafts from different part of the state will be
+        exhibited. The park was inaugurated on 29 December 2012 by Mamata Banerjee.</string>
+    <string name="maidan">The Maidan (literally, open field), also referred to as the Brigade Parade
+        Ground, is the largest urban park in Kolkata in the Indian state of West Bengal. It is a
+        vast stretch of field that includes numerous play grounds, including the famous cricketing
+        venue Eden Gardens, several football stadiums and the Kolkata Race Course. The Maidan is
+        dotted with statues and architectural works, the most notable being the Victoria Memorial.
+        Due to the freshness and greenery it provides to the metropolis, it has been referred to as
+        the \"lungs of Kolkata\". The property of the Indian Army, the Maidan hosts the army\'s Eastern
+        zone high command in Fort William. The Maidan stretches from the Raj Bhavan building on the
+        Esplanade in the north to the National Library on Belvedere Road in Alipore in the south.
+        The wide field stretches from the Hooghly River in the west to the Victoria Memorial in the
+        east. It is a historical and cultural center of Kolkata as well as a center of leisure and
+        entertainment for Calcuttans.</string>
+    <string name="central_park">Central Park situated in Salt Lake is a public urban park. It is
+        also known as Banabitan. It is the second largest open space in Kolkata Metropolitan Area
+        after the Maidan. It is a favorite hangout for lovers. This park is easily reachable from
+        the Karunamoyee Bus Terminus in Salt Lake. Central Park metro station and depot of Kolkata
+        Metro Line 2 are located here. On the roads surrounding the park are the buildings where the
+        West Bengal government has relocated many government departments. The park is built around
+        an expansive water body. There is a bridge which connects on side of the lake to an island
+        which has a pagoda. The lake serves as a haven for water birds like lesser whistling duck,
+        common moorhen, egrets, cormorants and other species. There are also boating facilities in a
+        cordoned off section of the lake near the rose garden.</string>
+    <string name="millenium_park">Millennium Park is a private park in Kolkata, situated along the
+        Strand Road on eastern shore of Hooghly River for a stretch of 2.5 km near Fairlie Ghat and
+        opposite to Railway Club. The park consists of landscaped gardens and children\'s amusement
+        rides. It was opened along the riverside to provide a green area for Kolkata\'s polluted
+        waterway. It is a millennium gift from Kolkata Metropolitan Development Authority
+        (KMDA/CMDA) inaugurated on 26 December 1999. The park is part of the first phases of the
+        Kolkata Riverside Beautification Project. The park is open from 11am-8pm.</string>
+    <string name="nalban">The unique thing about this boating complex is the lake that measures
+        nearly 400 acres in surface area. Emerald green waters, surrounding plantations, calmness
+        and the seclusion coalesce to make this place utterly romantic! Both locals and tourists
+        from places near and far visit this place to enjoy picnics. Although there are many things
+        to do here, the most popular of all activities is boating. Paddle boats, shikaras,
+        hovercrafts or rowing boats – choose what you like most among these and set off for a joyful
+        ride across the waters. Feel the cool breeze of the lake kissing your skin and get
+        mesmerised! At Nalban Boating Complex, there is a well-decorated food joint where you can
+        step in to relish mouth-watering Indian and international delicacies, in addition to a wide
+        variety of refreshing beverages. The complex also serves as an ideal place for events like
+        private parties, marriages and anniversaries.</string>
+    <string name="subhash_sarovar">The grandiose Subhash Sarovar is a wonderful place for day
+        outings and family picnics. This lake adds to the natural beauty of this area, one can have
+        a close look through boating on the Lake. Morning walks around the shore of this lake is a
+        perfect way to start your mornings. The place is also a paradise for birdwatchers and
+        photographers alike.</string>
+    <string name="hoogly_riverfront">Hooghly Riverfront is composed of the two banks of the Hooghly
+        River, which runs between the city of Kolkata on the east and the city of Howrah on the west
+        in West Bengal, India. On the east bank of the river, a beautification started in 2011, of
+        which the first phase ended in 2012.</string>
+
+    <!-- Description of the tourist spots in sports category -->
+    <string name="eden_gardens">The Eden Gardens is a cricket ground in Kolkata, India. Established
+        in 1864, it is the oldest and second largest cricket stadium in India after the newly built
+        Sardar Patel Stadium and third in the world after Sardar Patel Stadium and Melbourne Cricket
+        Ground. The stadium currently has a capacity of 80,000. On 22 November 2019, the venue
+        hosted the first ever day/night test match in India during second Test between India and
+        Bangladesh. Eden Gardens is often referred to as home of Indian cricket. It has the fastest
+        outfield among all the cricket stadiums in India therefore it is regarded as \"Batsman\'s
+        Paradise\".The ground has been referred to as \"cricket\'s answer to the Colosseum\". Eden
+        Gardens is called the \“Mecca of Indian cricket\” because it was the first officially built
+        ground for the game of cricket in India. Eden Gardens has hosted matches in major
+        international competitions including the World Cup, World Twenty20 and Asia Cup. In 1987,
+        Eden Gardens became the second stadium to host a World Cup final. The 2016 ICC World
+        Twenty20 final was held at the Eden Gardens where the West Indies beat England in a very
+        closely fought encounter.</string>
+    <string name="salt_lake_stadium">The Salt Lake Stadium, officially the Vivekananda Yuba Bharati
+        Krirangan (VYBK; transl. Vivekananda Indian Youth Stadium), is a multipurpose stadium in
+        Bidhannagar, Kolkata, with a current capacity of 85,000. The Salt Lake Stadium is the main
+        home of ATK Mohun Bagan, East Bengal. It is the second largest stadium in India by seating
+        capacity. Before its renovation in 2011, it was the second largest football stadium in the
+        world, having a seating capacity of 150,000. Prior to the construction and opening of
+        Rungrado May Day Stadium in 1989, it was the largest football stadium in the world. The
+        stadium hosted the final match of the 2017 FIFA U-17 World Cup, alongside hosting other
+        matches of the tournament. As part of security measures for the 2017 U-17 World Cup, the
+        stadium was only open for 66,687 viewers. It will be used again for the 2021 FIFA U-17
+        Women\'s World Cup. The stadium\'s record attendance was recorded in 1997 when 131,781
+        spectators watched the Federation Cup semifinal between East Bengal and Mohun Bagan. The
+        stadium switched back to natural grass from artificial turf as part of the preparations for
+        hosting the U-17 World Cup in 2017. The new turf was unveiled in a Kolkata Derby match
+        between East Bengal and Mohun Bagan during the 2015–16 Calcutta Premier Division match.
+    </string>
+    <string name="netaji_indoor_stadium">The Netaji Subhash Chandra Bose Indoor Stadium is an indoor
+        sports arena, in Kolkata, West Bengal, India. The facility seats 12,000 people. This indoor
+        stadium is located just beside the Eden Gardens. It used to host the Sunfeast Open, a WTA
+        Tour tennis tournament. Other international events hosted by the Stadium include the 1981
+        Asian Basketball Championship. Currently, it is the home of the Pro Kabaddi League team
+        Bengal Warriors. The Netaji Indoor Stadium hosts a wide range of activities, from sporting
+        events to cultural programmes. It is a venue for both national and international trade
+        fairs. It is also used as a center of counting of votes during elections. The venue was
+        inaugurated in 1975 by the then Chief Minister of West Bengal, Siddhartha Shankar Ray,
+        for indoor games and cultural events, musical functions and other programmes.</string>
+    <string name="kolkata_race_course">Kolkata Race Course in Hastings, Kolkata, India is the
+        largest horse race venue in India. The race course was built in 1820 and is maintained by
+        the Royal Calcutta Turf Club. The races are held from the month of July to September, and
+        again from November to March. The races are usually held on Saturdays, and also on other
+        public holidays.</string>
+    <string name="fanattic_sports_museum">Fanattic Sports Museum (FSM) is a sports museum, dedicated
+        to various types of sports and located at Ecospace Business Park in Action Area - II of New
+        Town, Kolkata, India. Established in January 2017, FSM is known as the first sports museum
+        in Kolkata as well as in West Bengal. It is an initiative by Prof. Boria Majumdar, an
+        eminent historian, writer, commentator and journalist in association with Harshavardhan
+        Neotia, Chairman, Ambuja Neotia group and consists of sports-related artefacts of various
+        famous sports personalities.</string>
+
+    <!-- Description of the tourist spots in others category -->
+    <string name="birla_planetarium">The Birla Planetarium (officially M. P. Birla Planetarium) in
+        Kolkata, West Bengal, India, is a single-storeyed circular structure designed in the typical
+        Indian style, whose architecture is loosely styled on the Buddhist Stupa at Sanchi. Situated
+        at Chowringhee Road adjacent to the Victoria Memorial, St. Paul\'s Cathedral and the Maidan
+        in Central Kolkata, it is the largest planetarium in Asia and the second largest
+        in the world. There are two other Birla Planetariums in India: B.M. Birla Planetarium in
+        Chennai and the Birla Planetarium in Hyderabad. Popularly known as taramandal, the
+        planetarium was inaugurated on 2 July 1963 by the then Prime Minister of India,
+        Jawaharlal Nehru. It has an electronics laboratory for design and fabrication of science
+        equipment. It has an astronomy gallery that maintains a huge collection of fine paintings
+        and celestial models of renowned astronomers. The Planetarium also has an astronomical
+        observatory equipped with a Celestron C-14 Telescope with accessories such as ST6 CCD
+        camera and solar filter. It offers to the public and students more than 100 astronomical
+        projects dealing with various facts of astronomy, astro-physics, Space Science as well as
+        myths concerning stars and planets. It has a capacity of 6800. Daily programs are conducted
+        in English, Bengali and Hindi from 12:00 to 19:00 hrs. The show timing is as follows: Mon
+        to Sat - 12.30 PM HINDI, 1.30 PM ENGLISH, 2.30 PM HINDI, 3.30 PM BENGALI, 4.30 PM HINDI,
+        5.30 PM BENGALI, 6.30 PM ENGLISH and two extra show on Sunday and Holiday is 10.30 AM HINDI,
+        11.30 AM BENGALI (updated on 15.08.2017) Programs are occasionally conducted in Oriya,
+        Tamil and Gujarati, as well. Extra shows are arranged on holidays. The Planetarium was
+        constructed by ML Dalmiya &amp; Co. which is owned by Board of Control for Cricket in India
+        former President late Jagmohan Dalmiya. It reopened to public on 18 July 2017, after closing
+        down for 28 months of renovations work. The new planetarium system for the Birla Planetarium
+        is a so-called ZEISS Hybrid Planetarium, with the STARMASTER, an optical-mechanical
+        planetarium projector (also called “Starball”) working in synch with a dome video display
+        system. The Starball presents the most realistic starfield in the dome with superimposed
+        images of constellation outlines, space objects like nebula and galaxies, planets and moons
+        by the VELVET digital video system, called fulldome projection. The technical upgrade was
+        delivered and installed by the German company Carl Zeiss AG.</string>
+    <string name="science_city">The Science City of Kolkata is the largest science centre in
+        the Indian subcontinent. It is Managed by National Council of Science Museums (NCSM),
+        Ministry of Culture, Government of India. It is located at the crossing of Eastern
+        Metropolitan Bypass and J. B. S. Haldane Avenue (Parama Island) in East Topsia. Saroj Ghose,
+        the first director general of NCSM, who is credited with having conceptualised this centre
+        in 1997. This centre was inaugurated by two parts: the ‘Convention Centre Complex’ was
+        unveiled on 21 December 1996 by Paul Jozef Crutzen in presence of the then chief minister
+        Jyoti Basu and the whole centre was opened by the then prime minister Inder Kumar Gujral on
+        1 July 1997. On 10 January 2010, prime minister of India, Manmohan Singh laid the foundation
+        stone for the second phase of Science City in presence of the then chief minister of West
+        Bengal, Buddhadeb Bhattacharjee.</string>
+    <string name="birla_industrial">Birla Industrial and Technological Museum (BITM), a unit under
+        National Council of Science Museums (NCSM), Ministry of Culture, Government of India, is at
+        Gurusaday Road, Kolkata.</string>
+    <string name="nicco_park">Nicco Park is an amusement park located in Jheel Meel, Sector - IV of
+        Salt Lake City, Kolkata, West Bengal, India. The park was created to attract tourists to the
+        state by providing family-friendly recreation as well as educative entertainment. Nicco Park
+        opened on 13 October 1991 and has since been referred to as the Disneyland of West Bengal.
+        Presently, the 40 acre park is home to over 35 different attractions and has served over 24
+        million customers. Nicco Park also provides a "green" environment.</string>
+    <string name="park_street">Park Street, officially known as Mother Teresa Sarani, is a famous
+        thoroughfare in the city of Kolkata (formerly Calcutta), India. The street runs through what
+        was a deer park of Sir Elijah Impey, Chief Justice of the Supreme Court in Calcutta from
+        1773 to 1789, hence the earlier name. Its current official name was given by Kolkata
+        Municipal Corporation in honour of Mother Teresa.</string>
+    <string name="esplanade">Esplanade is a neighbourhood of Central Kolkata, in Kolkata district in
+        the Indian state of West Bengal. This is not a conventional esplanade in the sense that the
+        place is not exactly situated alongside a waterbody. However, the Ganga river (Ganges), also
+        known as Hooghly river, flows nearby.</string>
+    <string name="academy_of_fine_arts">The Academy of Fine Arts, in Kolkata (formerly Calcutta) is
+        one of the oldest fine arts societies in India.</string>
+    <string name="mothers_wax_museum">Mother\'s Wax Museum is a wax museum located in Action Area -
+        II of New Town, Kolkata, India on the 5th and 6th floors of the West Bengal Housing
+        Infrastructure Development Corporation building. Established in November 2014, it contains
+        wax statues of more than 50 personalities, including statues of Bollywood actors Amitabh
+        Bachchan, Shah Rukh Khan and Salman Khan. The museum has been named after Mother Teresa.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

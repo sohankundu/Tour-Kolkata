@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#2C3A47</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#100C08</color>
+
+    <!-- Background color for app -->
+    <color name="background">#F5F5F5</color>
+
+    <!-- Background color for the heritage category -->
+    <color name="heritage_color">#6D214F</color>
+
+    <!-- Background color for the religious category -->
+    <color name="religious_color">#F97F51</color>
+
+    <!-- Background color for the nature category -->
+    <color name="nature_color">#1B9CFC</color>
+
+    <!-- Background color for the sports category -->
+    <color name="sports_color">#EAB543</color>
+
+    <!-- Background color for the others category -->
+    <color name="others_color">#FC427B</color>
+
+
+</resources>
