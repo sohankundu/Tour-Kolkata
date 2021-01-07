@@ -4,7 +4,7 @@ Tour Kolkata is a lightweight android application built with Java that lists the
 <br>
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/103850709-03abae00-50ce-11eb-9604-cc051168b1f0.jpg" alt="Home" height="20%" width="20%"></p>
+    <img src="https://user-images.githubusercontent.com/46050303/103850709-03abae00-50ce-11eb-9604-cc051168b1f0.jpg" alt="Home" height="40%" width="40%"></p>
 <br>
 <br>
 <br>
@@ -14,7 +14,7 @@ The Heritage category lists popular heritage buildings and spots of the city. Th
 <br>
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/103850707-03131780-50ce-11eb-867e-295458776482.jpg" alt="Heritage" height="20%" width="20%"></p>
+    <img src="https://user-images.githubusercontent.com/46050303/103850707-03131780-50ce-11eb-867e-295458776482.jpg" alt="Heritage" height="40%" width="40%"></p>
 <br>
 <br>
 
@@ -24,7 +24,7 @@ The Religious category lists popular religious places of the city. The Religious
 <br>
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/103850705-027a8100-50ce-11eb-85f3-5228e851c85a.jpg" alt="Religious" height="20%" width="20%"></p>
+    <img src="https://user-images.githubusercontent.com/46050303/103850705-027a8100-50ce-11eb-85f3-5228e851c85a.jpg" alt="Religious" height="40%" width="40%"></p>
 <br>
 <br>
 
@@ -34,7 +34,7 @@ The Nature category lists the popular nature spots of the city. The Nature activ
 <br>
 <br>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/46050303/103850701-00b0bd80-50ce-11eb-918f-3c6548de5766.jpg" alt="Nature" height="20%" width="20%"></p>
+    <img src="https://user-images.githubusercontent.com/46050303/103850701-00b0bd80-50ce-11eb-918f-3c6548de5766.jpg" alt="Nature" height="40%" width="40%"></p>
 <br>
 <br>
 
@@ -43,7 +43,7 @@ The Sports category lists the popular places of the city related to sports. The 
 <br>
 <br>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/46050303/103850716-060e0800-50ce-11eb-9e5a-61d0e423c9cd.jpg" alt="Sports" height="20%" width="20%"></p>
+   <img src="https://user-images.githubusercontent.com/46050303/103850716-060e0800-50ce-11eb-9e5a-61d0e423c9cd.jpg" alt="Sports" height="40%" width="40%"></p>
 <br>
 <br>
 
@@ -52,7 +52,7 @@ The Others category lists the other popular tourist spots of the city which may 
 <br>
 <br>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/46050303/103850713-05757180-50ce-11eb-80c7-a65b0c4220dc.jpg" alt="Others" height="20%" width="20%"></p>
+   <img src="https://user-images.githubusercontent.com/46050303/103850713-05757180-50ce-11eb-80c7-a65b0c4220dc.jpg" alt="Others" height="40%" width="40%"></p>
 <br>
 <br>
 <br>
@@ -61,7 +61,7 @@ Each tourist spot of every category, on being clicked upon, gives a detailed vie
 <br>
 <br>
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/46050303/103850710-03abae00-50ce-11eb-8d4f-02cedaf09d0d.jpg" alt="Detailed Tourist Spot" height="20%" width="20%"></p>
+   <img src="https://user-images.githubusercontent.com/46050303/103850710-03abae00-50ce-11eb-8d4f-02cedaf09d0d.jpg" alt="Detailed Tourist Spot" height="40%" width="40%"></p>
 <br>
 <br>
 
